@@ -1,3 +1,3 @@
 ### Результат
-![alt text](https://github.com/IlyaOv/labs_GUI/blob/main/img1.png)
-![alt text](https://github.com/IlyaOv/labs_GUI/blob/main/img2.png)
+![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab1/img1.png)
+![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab1/img2.png)
