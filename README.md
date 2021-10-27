@@ -1,6 +1,7 @@
 ### Результат
-
-![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img1.png)
+<br>
+Добавление нового изображения:
+<img src="https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img2.png" width="100">
 ![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img2.png)
 Рисование прямоугольников и сохранение центров в текстовый файл:
 ![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img3.png)
@@ -10,3 +11,4 @@
 ![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img6.png)
 ![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img7.png)
 ![alt text](https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img8.png)
+
