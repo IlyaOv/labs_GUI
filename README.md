@@ -1,8 +1,7 @@
 ### Результат
 <br>
 Добавление нового изображения:<br>
-<img src="https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img1.png" width="300">
-<img src="https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img2.png" width="300">
+<img src="https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img1.png" width="300"><img src="https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img2.png" width="300">
 <br>
 Рисование прямоугольников и сохранение центров в текстовый файл:<br>
 <img src="https://github.com/IlyaOv/labs_GUI/blob/lab2/results/img3.png" width="300">
